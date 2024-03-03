@@ -1,0 +1,13 @@
+p{
+    color: blue;
+    text-align:center ;
+    text-decoration:line-through;
+}
+img{
+    height: 500px;
+    width: 300px;
+    margin-top: auto;
+}
+h1{
+    color: aqua;
+}
